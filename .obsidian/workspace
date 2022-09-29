@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Addressables.md",
+            "file": "090620222154 Отдача от написания тестов.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Addressables.md",
+                "file": "090620222154 Отдача от написания тестов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Addressables.md",
+                "file": "090620222154 Отдача от написания тестов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Addressables.md"
+                "file": "090620222154 Отдача от написания тестов.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "cc4cb8f417539451",
   "lastOpenFiles": [
+    "Addressables.md",
     "280920221143 Стиль- проверка выходных данные.md",
     "280920221138 Стили юнит-тестирования.md",
     "280920221202 Сравнение стилей по метрикам.md",
@@ -139,7 +140,6 @@
     "280920221159 Стиль - проверка взаимодействий.md",
     "280920221150 Стиль - проверка состояния.md",
     "Templates/zettel.md",
-    "090620222154 Отдача от написания тестов.md",
-    "280920220006 Инкапсуляция и юнит-тестирование.md"
+    "090620222154 Отдача от написания тестов.md"
   ]
 }
