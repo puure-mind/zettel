@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "bdb24e49de905b04",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc4cb8f417539451",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Addressables.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff9159a544df807a",
+    "type": "split",
+    "children": [
+      {
+        "id": "75f18239d736c4d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b97eadb217288eee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "106253f15750d6b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tags",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "decf162439f73883",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "right": {
+    "id": "a89a7cdaeb2db1bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b1b97e25f73cfb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233429999617e7b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Addressables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28d81e311825d66a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Addressables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e861e0b3cc20dac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf97fb94aa91ffc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Addressables.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc4cb8f417539451",
+  "lastOpenFiles": [
+    "280920221143 Стиль- проверка выходных данные.md",
+    "280920221138 Стили юнит-тестирования.md",
+    "280920221202 Сравнение стилей по метрикам.md",
+    "270920222335 Метрики Юнит-теста.md",
+    "140920221451 Атрибуты юнит теста.md",
+    "280920221159 Стиль - проверка взаимодействий.md",
+    "280920221150 Стиль - проверка состояния.md",
+    "Templates/zettel.md",
+    "090620222154 Отдача от написания тестов.md",
+    "280920220006 Инкапсуляция и юнит-тестирование.md"
+  ]
+}
