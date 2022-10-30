@@ -1,4 +1,10 @@
 {
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "images",
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
 }
